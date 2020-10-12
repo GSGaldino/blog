@@ -1,0 +1,12 @@
+.container{
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.backgrounded{
+  background: url('/background.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
